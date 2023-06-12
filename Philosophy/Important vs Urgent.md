@@ -6,7 +6,7 @@
 
 > Матрица Эйзенхауэра — это способ приоритезации ваших задач. 
 
-![Important-Urgent](https://github.com/PoltevAnton/PSS_BAT_REG/blob/master/PicsForMD/Important-Urgent.png)
+![Important-Urgent](https://github.com/PoltevAnton/Pub/blob/master/Pic/Important-Urgent.png)
 
 Матрица состоит из 4 квадратов:
 1. Важно - Срочно (вверху слева)
